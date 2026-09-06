@@ -1,4 +1,5 @@
-##Premkumar Vemula
+# [Premkumar Vemula](about_me.html)
+###### I am colorblind. If colors doesn't make sense, I am with you.
 
 I code to declutter data.
 I train for endurance to declutter my thoughts.
