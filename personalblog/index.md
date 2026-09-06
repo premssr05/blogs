@@ -7,6 +7,7 @@ Recent Articles
     - [Confounding](\public\Causal Analysis\confounding.html)
     - [Confounding](/public/Causal Analysis/confounding.html)
     - [Confounding](./public/Causal Analysis/confounding.html)
+    - [Confounding](Causal%20Analysis/confounding.html)
     - [Ladder of Causation](personalblog\public\Causal Analysis\ladder causation.html)
     - [Spurious correlation](personalblog\public\Causal Analysis\Spurious correlation.html)
 
