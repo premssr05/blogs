@@ -24,9 +24,13 @@
 
 <body>
 <h2>Confounding</h2>
-<p>I code to declutter data.
-I train for endurance to declutter my thoughts.</p>
+<p>At its simplest, a confounder is an observed variable (Z) that causally influences both the treatment (X) and the outcome (Y)</p>
+<p>To understand Practical way to identify confounders we need to understand back-door path and criterion</p>
 <h3>Back-door path</h3>
-<p>A path from X(treatment) to Y(effect) which starts from arrow pointing towards X</p>
+<p>a non-causal path between (X) and (Y) that has an arrow pointing into the treatment</p>
+<h3>The Backdoor Criterion</h3>
+<p>The backdoor criterion, introduced by Judea Pearl, is used to determine a set of variables Z that, when controlled for, allow for an unbiased estimate of the causal effect of a treatment X on an outcome Y from observational data</p>
+<p>More formally, a variable is a confounder if it lies on an open backdoor path between the treatment and the outcome. It acts as the central node of a "fork" on that backdoor path.</p>
+<h2>Examples</h2>
 </body>
 </html>
