@@ -7,7 +7,7 @@ Data Scientist @ ExxonMobil
 
 Recent Articles
 --------------
-- [Causal Inference](Causal_Inference.html) 
+- [Causal Inference](Causal_Inference.html)
 - Why Correlation Isn't Causation
 - The Firefighter Paradox
 - AI in Energy Operations
