@@ -4,15 +4,10 @@
 Recent Articles
 --------------
 - Causal Inference
-    - [Confounding](\public\Causal Analysis\confounding.html)
-    - [Confounding](/public/Causal Analysis/confounding.html)
-    - [Confounding](./public/Causal Analysis/confounding.html)
     - [Confounding](Causal%20Analysis/confounding.html)
     - [Ladder of Causation](personalblog\public\Causal Analysis\ladder causation.html)
     - [Spurious correlation](personalblog\public\Causal Analysis\Spurious correlation.html)
 
 Projects
 --------
-- FamCareSync
-- Causal Inference Notes
-- Running Analytics Dashboard
+- Coming Up
