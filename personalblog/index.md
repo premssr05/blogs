@@ -1,17 +1,12 @@
 # [Premkumar Vemula](about_me.html)
 ###### I am colorblind. If colors doesn't make sense, I am with you.
 
-I code to declutter data.
-I train for endurance to declutter my thoughts.
-
-Data Scientist @ ExxonMobil
-
 Recent Articles
 --------------
-- [Causal Inference](Causal_Inference.html)
-- Why Correlation Isn't Causation
-- The Firefighter Paradox
-- AI in Energy Operations
+- Causal Inference
+    - [Confounding](personalblog\public\Causal Analysis\confounding.html)
+    - [Ladder of Causation](personalblog\public\Causal Analysis\ladder causation.html)
+    - [Spurious correlation](personalblog\public\Causal Analysis\Spurious correlation.html)
 
 Projects
 --------
